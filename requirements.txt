@@ -1,0 +1,11 @@
+pandas
+streamlit
+chromadb
+openpyxl
+langchain>=0.1.0
+langchain-openai
+langchain-community
+openai
+tiktoken
+torchvision
+python-dotenv
